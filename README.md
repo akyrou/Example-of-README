@@ -1,7 +1,7 @@
 # Example-of-README
 A repository for the most beautiful cities I visited
 
-* **Kastoria**
+* [**Kastoria**](https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%AC)
 
  ![kastoria](https://www.smileacadimos.gr/images/default-source/trip/greece/makedonia/kastoria/kastoria.jpg?sfvrsn=9c1d290b_2)
  
@@ -16,7 +16,6 @@ A repository for the most beautiful cities I visited
 * **Ahens**
 
  ![Athens](https://www.norwegian.com/globalassets/ip/media/03_inspiration/gr-athen-top-10/ath-greece-adobe-225629353-1200x800.jpg)
-
 
 
 *Created by* **Antonis Kirou**
