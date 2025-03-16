@@ -1,5 +1,5 @@
 # Example-of-README
-A repository for the most beautiful cities I visited
+A repository for the most beautiful cities I have visited
 
 * [**Kastoria**](https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%AC)
 
