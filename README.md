@@ -1,3 +1,4 @@
 # Example-of-README
-## My first repository
-### Created by ** Antonis Kirou**
+My first repository
+
+Created by ** Antonis Kirou**
